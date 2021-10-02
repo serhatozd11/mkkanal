@@ -25,8 +25,8 @@ By @StarkBots
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/MyTgRoBots")],
+        [InlineKeyboardButton("🎨 Support Channel 🎨", url="https://t.me/ChannelRoBotSupport")],
     ]
 
     # Help Message
@@ -50,13 +50,7 @@ Alternative Commands
     ABOUT = """
 **About This Bot** 
 
-A telegram channel automation bot by @StarkBots
+A telegram channel automation bot by @MyTgRoBots
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/ChannelBot)
-
-Framework : [Pyrogram](docs.pyrogram.org)
-
-Language : [Python](www.python.org)
-
-Developer : @StarkProgrammer
+Developer : @justDominanT
     """
