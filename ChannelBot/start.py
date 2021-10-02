@@ -19,8 +19,7 @@ async def start(bot, msg):
 		reply_markup=ReplyKeyboardMarkup(
 			[
 				['+ Add Channels +'],
-				['Manage Channels'],
-				['Report a Problem']
+				['Manage Channel'] 
 			],
 			one_time_keyboard=True,
 			resize_keyboard=True
